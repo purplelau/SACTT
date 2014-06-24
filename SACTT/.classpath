@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Silvia Cabezas Marti/Downloads/SACTT_Version2.30/SACTT/librerias/AutoCompleter.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Silvia Cabezas Marti/Downloads/SACTT_Version2.30/SACTT/librerias/forms-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Silvia Cabezas Marti/Downloads/SACTT_Version2.30/SACTT/librerias/javacsv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Silvia Cabezas Marti/Downloads/SACTT_Version2.30/SACTT/librerias/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Silvia Cabezas Marti/Downloads/SACTT_Version2.30/SACTT/librerias/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Silvia Cabezas Marti/Downloads/SACTT_Version2.30/SACTT/librerias/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Silvia Cabezas Marti/Downloads/SACTT_Version2.30/SACTT/librerias/poi-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Silvia Cabezas Marti/Downloads/SACTT_Version2.30/SACTT/librerias/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

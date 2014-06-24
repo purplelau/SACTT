@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Jun 07 17:34:21 CEST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=C\:\\Users\\Silvia Cabezas Marti\\Desktop\\SACTT-GUI_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Pantallas.identificacion
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
